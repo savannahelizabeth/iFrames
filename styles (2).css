@@ -1,0 +1,55 @@
+#grad {
+  background-image: linear-gradient(to right, black , navy);
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-family: 'Climate Crisis', cursive;
+    font-size: 400%;
+}
+
+.sparks {
+    position: absolute;
+    left: 50%;
+    top: 15%
+}
+
+.warning {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.ink {
+    position: absolute;
+    left: 50%;
+    top: 85%;
+}
+
+.sparks2 {
+    color:beige;
+    font-size: 500%;
+    font-family: 'Climate Crisis', cursive;
+    position: absolute;
+    left: 15%;
+    top: 22%;
+}
+
+.warning2 {
+    color:beige;
+    font-size: 500%;
+    font-family: 'Climate Crisis', cursive;
+    position: absolute;
+    left: 15%;
+    top: 55%;
+}
+
+.ink2 {
+    color:beige;
+    font-size:500%;
+    font-family: 'Climate Crisis', cursive;
+    position: absolute;
+    left: 15%;
+    top: 90%;
+}
